@@ -1,0 +1,21 @@
+{
+    "name": "zhangpengtao-black",
+    "displayName": "zhangpengtao-black",
+    "description": "a black theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zhangpengtao-black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zhangpengtao-black-color-theme.json"
+            }
+        ]
+    }
+}
