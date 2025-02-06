@@ -1,0 +1,3 @@
+1. 微软账号用ZhangPetor@163.com登录
+2. https://dev.azure.com/ZhangPengtao/_usersSettings/tokens 在这里获取Token
+
